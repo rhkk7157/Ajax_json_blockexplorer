@@ -1,0 +1,21 @@
+{
+  "name": "FromExistingCode2",
+  "version": "0.0.0",
+  "description": "FromExistingCode2",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "coingecko-api": "^1.0.3",
+    "document": "^0.4.7",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.2.0",
+    "mysql": "^2.16.0",
+    "navbar": "^2.1.0",
+    "net": "^1.0.2",
+    "sidebar": "^1.0.2",
+    "socket.io": "^2.2.0"
+  }
+}
